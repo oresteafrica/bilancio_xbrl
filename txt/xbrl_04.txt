@@ -1,0 +1,55 @@
+<context id="c2023_i">
+<entity>
+  <identifier scheme="http://www.infocamere.it">13338810966</identifier>
+</entity>
+<period>
+  <instant>2023-12-31</instant>
+</period>
+<scenario>
+  <itcc-ci:scen>itcc-ci:depositato</itcc-ci:scen>
+</scenario>
+</context>
+<context id="c2023_d">
+<entity>
+  <identifier scheme="http://www.infocamere.it">13338810966</identifier>
+</entity>
+<period>
+  <startDate>2023-01-01</startDate>
+  <endDate>2023-12-31</endDate>
+</period>
+<scenario>
+  <itcc-ci:scen>itcc-ci:depositato</itcc-ci:scen>
+</scenario>
+</context>
+<context id="c2024_i">
+<entity>
+  <identifier scheme="http://www.infocamere.it">13338810966</identifier>
+</entity>
+<period>
+  <instant>2024-12-31</instant>
+</period>
+<scenario>
+  <itcc-ci:scen>itcc-ci:depositato</itcc-ci:scen>
+</scenario>
+</context>
+<context id="c2024_d">
+<entity>
+  <identifier scheme="http://www.infocamere.it">13338810966</identifier>
+</entity>
+<period>
+  <startDate>2024-01-01</startDate>
+  <endDate>2024-12-31</endDate>
+</period>
+<scenario>
+  <itcc-ci:scen>itcc-ci:depositato</itcc-ci:scen>
+</scenario>
+</context>
+<unit id="EUR">
+<measure>iso4217:EUR</measure>
+</unit>
+<unit id="shares">
+<measure>xbrli:shares</measure>
+</unit>
+<unit id="pure">
+<measure>xbrli:pure</measure>
+</unit>
