@@ -1,6 +1,6 @@
 # **Dalla contabilità ordinaria al bilancio formale: soluzione Open Source dell'enigma XBRL**
 
-# ***Introduzione***
+ **Introduzione**
 
 La contabilità a partita doppia è il fondamento della moderna
 ragioneria, basata sul principio che ogni operazione ha un doppio
@@ -66,7 +66,7 @@ in sistemi informatici integrati ottengono non solo conformità
 normativa, ma anche un vantaggio competitivo grazie a una gestione
 finanziaria più agile e informata.
 
-#***Perché Open Source?***
+**Perché Open Source?**
 
 Nel 2020 in Italia si contano 4 milioni 354 mila imprese attive, cui
 corrispondono 17 milioni e 138 mila addetti[^1]. Nel febbraio del 2024
@@ -96,7 +96,7 @@ Open Source crea interazione fra imprese e risorse tecniche, facilita la
 creazione di una rete di relazioni, così facendo stabilisce un
 ecosistema favorevole allo sviluppo culturale, economico ed operativo.
 
-#***Il codice***
+**Il codice**
 
 Il codice è strutturato in due script in linguaggio PHP, accesso a base
 dati MariaDB gestibile attraverso script MySQL, file XML e XLS di
