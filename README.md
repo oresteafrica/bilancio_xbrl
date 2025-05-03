@@ -24,9 +24,7 @@ specifica la funzione (es. \"Cassa\", \"Crediti verso clienti\",
 
 La struttura tipica include:
 
-- Classi (macro-categorie, es. \"Attività\", \"Passività\", \"Costi\",
-
-  > \"Ricavi\")
+- Classi (macro-categorie, es. \"Attività\", \"Passività\", \"Costi\",\"Ricavi\")
 
 - Sotto-conti (dettaglio delle voci, es. \"Banca X\", \"Fornitore Y\")
 
