@@ -42,9 +42,9 @@ $sheet->setCellValue('I4', $esPreEnd->format('d/m/Y'));
 //------------------------------------------------------------------------------
 // database e tabelle di riferimento
 $host = 'localhost';
-$dbname = 'wp-playground';
-$username = 'oreste';
-$password = 'vaffax';
+$dbname = '********';
+$username = '******';
+$password = '******';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8mb4", $username, $password);
