@@ -1,5 +1,9 @@
 # **Dalla contabilità ordinaria al bilancio formale: soluzione Open Source dell'enigma XBRL**
 
+**Aggiornamento 2026**
+Il manuale operativo per il deposito bilanci del 2025 si trova al seguente richiamo:
+<https://www.unioncamere.gov.it/sites/default/files/articoli/2025-05/Manuale-Operativo-Bilanci-2025-29042025%20finale_0.pdf>
+
  **Introduzione**
 
 La contabilità a partita doppia è il fondamento della moderna
