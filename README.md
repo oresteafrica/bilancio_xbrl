@@ -271,7 +271,7 @@ quale si può scaricare ed operare un fork. Nonostante il codice sia
 sufficiente per la produzione del bilancio aziendale, è disponibile per
 migliorie, modifiche ed adattamenti specifici. Inoltre l'azienda
 Personia è disponibile ad installazioni personalizzate adatte alle
-diverse realtà aziendali, contattare <info@personia.online> a questo
+diverse realtà aziendali, contattare <sviluppo_bilancio@personia.online> a questo
 proposito.
 
 [^1]: <https://www.istat.it/storage/ASI/2024/capitoli/C14.pdf>
