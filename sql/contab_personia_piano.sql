@@ -161,7 +161,7 @@ INSERT INTO `contab_personia_piano` (`Id`, `Codice`, `Descrizione`, `Tipo`, `Cat
 (152, '06-04-', 'ALTRI TITOLI', 'Patrimoniale', 'Alt'),
 (153, '07--', 'DISPONIBILITÁ', 'Patrimoniale', 'Alt'),
 (154, '07-01-', 'Depositi Bancari', 'Patrimoniale', 'Dis'),
-(155, '07-01-00001', 'BANCA C/C Banca Sella IBAN IT16Z0326822300052748287650', 'Patrimoniale', 'Dis'),
+(155, '07-01-00001', 'BANCA C/C Banca **** IBAN ******', 'Patrimoniale', 'Dis'),
 (156, '07-01-00010', 'BANCA C/C (Vincolato)', 'Patrimoniale', 'Dis'),
 (157, '07-02-', 'Assegni', 'Patrimoniale', 'Dis'),
 (158, '07-02-00001', 'CASSA ASSEGNI BANCARI', 'Patrimoniale', 'Dis'),
